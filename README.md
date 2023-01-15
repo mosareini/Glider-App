@@ -1,7 +1,7 @@
 # Glider App 
 ​
-Java File is all backend, database, API and DAO. Located in the src file. 
+Java File is all backend, database, API, DAO and located in the src file. 
 ​
-Vue file is front end Js, HTML, and CSS. Located in the src file. 
+Vue file is front end Js, HTML, CSS and located in the src file. 
 
 
