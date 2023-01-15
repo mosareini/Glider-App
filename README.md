@@ -1,5 +1,7 @@
-# Final Capstone
+# Glider App 
 ​
-This directory contains all of the starter projects for the final capstone.
+Java File is all backend, database, API and DAO. Located in the src file. 
 ​
-Each project contains instructions that provides information about the starting code and explains how to get started with the final capstone project.
+Vue file is front end Js, HTML, and CSS. Located in the src file. 
+
+
